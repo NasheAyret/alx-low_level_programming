@@ -1,10 +1,23 @@
 #include <stdio.h>
+
+
+
 /**
-*main - Entry point
-*Return: 0 after printing the function
+
+* main - entry point
+
+* Description: Print a string using followed by a new line
+
+* Return: 0
+
 */
-int main(voi)
+
+int main(void)
+
 {
-puts("\"Programing is like building a multilingual puzzle");
-return (0);
+    
+    puts("\"Programming is like building a multilingual puzzle");
+    
+    return (0);
+    
 }
