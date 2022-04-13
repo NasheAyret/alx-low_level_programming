@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
   * print_last_digit - Function that prints the last digit.
   * @n: takes in an integer
