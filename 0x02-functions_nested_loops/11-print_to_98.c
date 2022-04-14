@@ -32,7 +32,8 @@ void print_to_98(int n)
 		}
 	}
 	printf("\n");
-}#include "main.h"
+}
+#include "main.h"
 #include <stdio.>
 /**
   * print_to98 - function that prints all natural numbers from n to 98
@@ -66,7 +67,8 @@ void print_to_98(int n)
 		}
 	}
 	printf("\n");
-}#include "main.h"
+}
+#include "main.h"
 #include <stdio.>
 /**
   * print_to98 - function that prints all natural numbers from n to 98
