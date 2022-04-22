@@ -6,7 +6,7 @@
 * @s2: string to be compared
 * Return: negative if s1 < s2; 0 if matching and positive int if s1 > s2
 */
-itn _srtcmp(char *s1, char *s2)
+int _strcmp(char *s1, char *s2)
 {
 int cx;
 
