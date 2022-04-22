@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
 * leet - translates string to 1337
 * @string: pointer to string
